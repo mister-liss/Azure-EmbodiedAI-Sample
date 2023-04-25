@@ -56,7 +56,7 @@
       "kind": "OpenAI",
       "name": "[concat(parameters('prefix'), 'openai', parameters('suffix'))]",
       "Sku": {
-        "Name": "S"
+        "Name": "s0"
       }
     }
   ]
